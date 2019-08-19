@@ -56,7 +56,7 @@ html {
  }
  
  /*
-  * Just a quick hamburger
+  *  hamburger
   */
  #menuToggle span
  {
@@ -88,10 +88,7 @@ html {
    transform-origin: 0% 100%;
  }
  
- /* 
-  * Transform all the slices of hamburger
-  * into a crossmark.
-  */
+ /* change direction span */
  #menuToggle input:checked ~ span
  {
    opacity: 1;
@@ -99,18 +96,14 @@ html {
    background: #232323;
  }
  
- /*
-  * But let's hide the middle one.
-  */
+
  #menuToggle input:checked ~ span:nth-last-child(3)
  {
    opacity: 0;
    transform: rotate(0deg) scale(0.2, 0.2);
  }
  
- /*
-  * Ohyeah and the last one should go the other direction
-  */
+ 
  #menuToggle input:checked ~ span:nth-last-child(2)
  {
    transform: rotate(-45deg) translate(0, -1px);
@@ -158,9 +151,14 @@ html {
   justify-content:space-between; 
   
 }
-
 img{
  width: 30px; 
  height: 30px;
  padding: 8px
+}
+
+.layout{
+    display: flex;
+    justify-content: space-between;
+
 }
