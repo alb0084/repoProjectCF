@@ -2,7 +2,7 @@
 .resizeVue {width:300px; height: 170px;}
 
 .carousel-container{
-    width:60%;
+    width:100%;
     margin: auto;
     border: 5px solid black;
     overflow: hidden;
