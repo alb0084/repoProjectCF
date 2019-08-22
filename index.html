@@ -4,6 +4,7 @@
   <title>Project Code & Founder</title>
   <link rel="stylesheet" href="stylecss/styles.css">
 </head>
+<header><span>TEST</span></header>
 <body>
     <nav class="layout" role="navigation">
         <div class="layout" id="menuToggle">
@@ -24,17 +25,17 @@
               <li>GitHub repoProject</li>
               <img src="img/gitHub.JPG" alt="">
             </a>
-            <a><li>Carousel</li></a>
-            <a><li>About Me...</li></a>
+            <a value="A"  onclick= "populateData(this)"> <li>Carousel</li></a>
+            <a value="B"  onclick= "populateData(this)"><li>About Me...</li></a>
          </ul>
         </div>
-        <div class="layout"  style="position: relative;top: 200px;right: 400px;">
-          HERE LOAD THE CONTENT
-        </div>
         
-           
+        <div   id="content" style="position: relative;top: 200px;right: 400px;">HERE LOAD THE CONTENT</div>
 
     </nav>
+
 </body>
 </html>
+
+<script src="javascript/catchContent.js"></script>
 

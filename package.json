@@ -1,0 +1,25 @@
+{
+  "name": "project_cf",
+  "version": "1.0.0",
+  "description": "Optional repo for demo project",
+  "main": "index.js",
+  "dependencies": {
+    "core-util-is": "^1.0.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alb0084/repoProjectCF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alb0084/repoProjectCF/issues"
+  },
+  "homepage": "https://github.com/alb0084/repoProjectCF#readme"
+}

@@ -1,0 +1,35 @@
+.resize {width:1000px; height: 500px;}
+.resizeVue {width:300px; height: 170px;}
+
+.carousel-container{
+    width:60%;
+    margin: auto;
+    border: 5px solid black;
+    overflow: hidden;
+    position: relative;
+}
+
+.carousel-slide{
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+
+#prevBtn{
+    position: absolute;
+    top:50%;
+    z-index: 100;
+    left: 5%;
+    font-size: 30px;
+    color:#787070;
+   cursor:pointer;
+}
+#nextBtn{
+    position: absolute;
+    top:50%;
+    z-index: 100;
+    right:  5%;
+    font-size: 30px;
+    color:#787070;
+   cursor:pointer;
+}

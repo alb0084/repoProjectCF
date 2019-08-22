@@ -1,10 +1,11 @@
 var targetDiv = document.getElementById('content');
-var htmlContent = '';
+
+
 
 function populateData(event){
-  switch(event.target.value){
+  switch(event.getAttribute('value')){ 
     case 'A':{
-     htmlContent = 'Content for A';
+     htmlContent = '<object type="text/html" data="../carousel/carousel.html" ></object>';
       break;
     }
     case 'B':{
