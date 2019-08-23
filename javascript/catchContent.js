@@ -10,8 +10,8 @@ const aboutMe=   `Hello,</br> My name is Alberto and i am  software developer 
 
 function populateData(event){
   switch(event.getAttribute('value')){ 
-    case 'A':{
-     htmlContent = '<object style="width: -webkit-fill-available;" type="text/html" data="./carousel/carousel.html "></object>';
+    case 'A':{ //'<object style="width: -webkit-fill-available;" type="text/html" data="./carousel/carousel.html "></object>'
+     htmlContent = 'TEST';
       break;
     }
     case 'B':{
