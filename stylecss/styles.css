@@ -29,7 +29,7 @@ html {
  {
    display: block;
    position: relative;
-   top: 50px;
+   top: 25px;
    left: 50px;
    
    z-index: 1;
@@ -67,7 +67,7 @@ html {
    margin-bottom: 5px;
    position: relative;
    
-   background: #cdcdcd;
+   background: #ededed;
    border-radius: 3px;
    
    z-index: 1;
@@ -121,7 +121,7 @@ html {
    margin: -100px 0 0 -50px;
    padding: 50px;
    padding-top: 125px;
-   height: 570px;
+   height: 594px;
    background: #ededed;
    list-style-type: none;
    -webkit-font-smoothing: antialiased;
@@ -144,7 +144,7 @@ html {
   */
  #menuToggle input:checked ~ ul
  {
-   transform: none;
+   transform: unset;
  }
 
  .alignMent {
