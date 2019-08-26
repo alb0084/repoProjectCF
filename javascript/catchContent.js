@@ -3,7 +3,7 @@ var targetDiv = document.getElementById('content');
 document.getElementById("idCheckBox").checked=true;
 const aboutMe=   `Hello,</br> My name is Alberto and i am  software developer for 2 years. Recently  
                   i've approached some front-end tools such as angular,react,vue and surfing on the web
-                  i have found an Intensive  Bootcamp course regarding the lates technolgy for web development organized by F&C. 
+                  i have found an Intensive  Bootcamp course regarding the latest technolgy for web development organized by F&C. 
                   About this Initiative, i think that could be a great opportunity to level up my skills with your support and
                   to try a new great experience for working in London.
                   I looking forward to talking again soon. 
