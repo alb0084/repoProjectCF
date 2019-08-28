@@ -4,7 +4,7 @@
 .carousel-container{
     width:98%;
     margin: auto;
-    border: 5px solid black;
+    border: 0px solid black;
     overflow: hidden;
     position: relative;
 }

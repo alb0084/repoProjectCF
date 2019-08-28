@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'autograf_personal_use_onlyRg';
+    src: url('autograf-style-webfont.woff2') format('woff2'),
+         url('autograf-style-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

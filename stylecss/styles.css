@@ -7,8 +7,8 @@ html {
    padding: 0;
    
    /* make it look decent enough */
-   background: #232323;
-   color: #cdcdcd;
+   background: #C0D5BF;
+   color: #232323;
    font-family: "Avenir Next", "Avenir", sans-serif;
  }
  
@@ -29,7 +29,7 @@ html {
  {
    display: block;
    position: relative;
-   top: 25px;
+   top: 30px;
    left: 50px;
    
    z-index: 1;
@@ -67,7 +67,7 @@ html {
    margin-bottom: 5px;
    position: relative;
    
-   background: #ededed;
+   background: #232323;
    border-radius: 3px;
    
    z-index: 1;
@@ -122,7 +122,7 @@ html {
    padding: 50px;
    padding-top: 125px;
    height: 594px;
-   background: #ededed;
+   background: #56876D;
    list-style-type: none;
    -webkit-font-smoothing: antialiased;
    /* to stop flickering of text in safari */
@@ -162,4 +162,7 @@ img{
     display: flex;
     justify-content: space-between;
 
+}
+.fontCursive{
+  font-family: cursive;
 }
