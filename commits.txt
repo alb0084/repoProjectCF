@@ -1,0 +1,318 @@
+commit cc1cb8dc45e8a0cc3d946f9e4454dc0b527e9ac1
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 30 16:51:01 2019 +0200
+
+    set dinamic content for carousel content && Abuot Me... section
+
+commit 7785c5a3c57e1ae98d640ccdfaeb8ccec8f319af
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Wed Aug 28 19:45:30 2019 +0200
+
+    fixed height bug css in styles
+
+commit 87d0537f80037a4c56b8da5417d6bf8596c64bd1
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Wed Aug 28 19:38:32 2019 +0200
+
+    restyling layout and text section about me
+
+commit 1cab0b2cc95bbd86a5e2ffbeaa6193fb64a06912
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Wed Aug 28 11:04:02 2019 +0200
+
+    rename catchContent in routeContent
+
+commit a1ca50ea544f6a4a98050ce206df0e11ed53a0a6
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 26 16:20:27 2019 +0200
+
+    text correction
+
+commit 723f0aca45276ba3c4db96c7a5f85d02a8430ccd
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 26 16:13:37 2019 +0200
+
+    https://alb0084.github.io/repoProjectCF/
+
+commit 96ded9cdc0c55f1c8435d911b7a814d1a02be1ad
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 26 16:08:06 2019 +0200
+
+    https://alb0084.github.io/repoProjectCF/
+
+commit 26953ba56d3d8d4e97ed70e4d4fd2c3b76af8820
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 26 15:56:32 2019 +0200
+
+    Fixed Text content and set checked navbar
+
+commit 6b3c866a4e31d18dd238333a93d71b259df22a3b
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 17:07:17 2019 +0200
+
+    wip finish
+
+commit 6ef8d8549a0106d19b8c0dff7e50da6c83845214
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:44:27 2019 +0200
+
+    wip 9
+
+commit a28f14eb1e9f7ea85e5db4360203eef043c0ee2f
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:42:51 2019 +0200
+
+    wip 9
+
+commit 4664519a863d48d63bcf5d1d36ffc1ed92c48bb5
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:40:09 2019 +0200
+
+    wip 9
+
+commit 4fef483ae48982c6140849df4bff770435bb3373
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:38:47 2019 +0200
+
+    wip 9
+
+commit b2bd9d5b975dfc063302ec1a089e2f28de108758
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:36:30 2019 +0200
+
+    wip 9
+
+commit e8f2ed8a4eb889b943ed73721873979928cc5c58
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:34:57 2019 +0200
+
+    wip 9
+
+commit 0dbe1f0c8e1e867588c28de7b7db313fcabd0cb3
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:32:33 2019 +0200
+
+    wip 9
+
+commit d130e23601a39c6dfe553c69a1a10ec76c5ea216
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:29:51 2019 +0200
+
+    wip 9
+
+commit a7cbff2c4f94eeee74832d436381156345315d77
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:25:52 2019 +0200
+
+    wip 9
+
+commit 462e1bae0ecc20e31c3df8fff32188f533e80276
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:23:24 2019 +0200
+
+    wip 9
+
+commit 62f1b2578c1e820f5a684e117698061847bd3396
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:07:38 2019 +0200
+
+    wip 9
+
+commit 49a6dcb1bbbe19ee34d189b8be41485a7b98bd07
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 16:05:58 2019 +0200
+
+    wip 9
+
+commit 40357af437d075ba3995cb2a54875097d1099f6e
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:59:59 2019 +0200
+
+    wip 9
+
+commit b8dea2252f4c560b50b08379084c3648404f80d2
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:58:49 2019 +0200
+
+    wip 9
+
+commit 899685b0626903730ed226a55bd42c0a0cb0d87a
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:51:46 2019 +0200
+
+    wip 9
+
+commit 72d6be0068a8e3ff0c8c8d02e7da4fee77d5bc3d
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:34:40 2019 +0200
+
+    wip 9
+
+commit ccc4074b2644163b48723940f01145d7fe253e56
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:29:55 2019 +0200
+
+    wip 9
+
+commit 40674dc48db15c7ca66327975a2e73640e2a146d
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:29:02 2019 +0200
+
+    wip 9
+
+commit 2a849a27fca9f2abf9f3ee0b9b2272312a9b6fd5
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:27:43 2019 +0200
+
+    wip 9
+
+commit c25da43f790301376b6da78b72b8f42467e74a33
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:10:24 2019 +0200
+
+    wip 8
+
+commit 65c6af656ab1d47bcab94f957dac46709b1eed64
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:06:36 2019 +0200
+
+    wip 7
+
+commit 40ae617813d354f46730160ad6e2f7c047ba54dc
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:05:12 2019 +0200
+
+    wip 6
+
+commit bf1205eeda77b90a3d69132c36f9c89df329d514
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 15:02:02 2019 +0200
+
+    wip 5
+
+commit f387966a41f87acda35651dab643702798c91d9e
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 14:53:22 2019 +0200
+
+    wip 4
+
+commit e450d496f76f05dbd397153aa789015c46fc55ee
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 14:47:30 2019 +0200
+
+    wip 3
+
+commit caf489e6b09d302e26fc2f07c367d9fdc9c9497b
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 14:44:09 2019 +0200
+
+    wip fix 2
+
+commit ba49507d279d45a449eafa97dba361c56dae3d0c
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 14:39:57 2019 +0200
+
+    wip fix
+
+commit 3e523f60c658eb509459b8fcbca465df1e449210
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 14:35:17 2019 +0200
+
+    data catchContent.js modified
+
+commit 70d72f05c379c644c24aa88ea6fe50ae698c1d52
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 14:30:58 2019 +0200
+
+    delete
+
+commit ba4d957ccc37864e7a5f2d100c03ec7ae0df4b91
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 14:26:53 2019 +0200
+
+    fix catchContent.js
+
+commit 662b0875f7113fad76c57987518dad1ed11c6588
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 12:17:29 2019 +0200
+
+    Text correction && fix problem css relative to width
+
+commit 397426a2c6d06d2ab9f36603e3117e6ac67b8d99
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 11:55:55 2019 +0200
+
+    add tooltip with title in input index.html
+
+commit 2970de8cf8cee217c10650d2007e91554f36ebc0
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Fri Aug 23 11:21:54 2019 +0200
+
+    fault  layout css fixed
+
+commit 98608c4e94f3c1cbdbeb5211e0fecaea9eedf335
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Thu Aug 22 20:04:53 2019 +0200
+
+    Add content About me
+
+commit ec1f8d970a4d0e5c46bb7fb8272bb634639db442
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Thu Aug 22 19:12:13 2019 +0200
+
+    Bug Carousel Fixed
+
+commit 53d1e5d8e65783b835075544cbae02beb69c0ec0
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Thu Aug 22 15:55:29 2019 +0200
+
+    finished logic to load carousel in div content index.html and css style's carousel
+
+commit 586e64eb736a1220aae32159d42a0c8c278d722c
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Wed Aug 21 18:14:06 2019 +0200
+
+    Added library js to manage link content
+
+commit d8dcc625ed8ad71c2f86b15cfccf9a2b85c29dd0
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Tue Aug 20 00:15:33 2019 +0200
+
+    fourth commit.. add div and class css layout  for replace content dynamically
+
+commit f3374dc7d29f3eea3853ace9441b1d7e5bad6c3b
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 19 19:44:29 2019 +0200
+
+    add configuration slide css and structure body for html (commit 3 after first configuration)
+
+commit 164faab291ceb090a3442174e42ee1984a9e6230
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 19 13:47:40 2019 +0200
+
+    Second change index.html
+
+commit ae92560abc808c2ebb3fac0d77420c8fa85bd3ad
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 19 13:42:37 2019 +0200
+
+    First Configuration File&Library
+
+commit 37ab2704a3b24618d2813b6482b17d033580d331
+Merge: aef876f 76a1552
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 19 10:55:42 2019 +0200
+
+    Merge branch 'master' of https://github.com/alb0084/repoProjectCF
+
+commit aef876f027bef3e0449fdc46a38515312f43c85c
+Author: Alberto <alberto.cerea84@gmail.com>
+Date:   Mon Aug 19 10:40:29 2019 +0200
+
+    My First commit
+
+commit 76a1552333a6bd437fb409dd862bc100737be523
+Author: alb0084 <34515151+alb0084@users.noreply.github.com>
+Date:   Thu Aug 1 22:29:00 2019 +0200
+
+    Initial commit
