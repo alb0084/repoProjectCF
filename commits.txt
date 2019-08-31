@@ -50,46 +50,46 @@ commit 6b3c866a4e31d18dd238333a93d71b259df22a3b
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 17:07:17 2019 +0200
 
-    wip finish
+    wip finished
 
 
-    wip 9
+    wip fix 9
 
 commit c25da43f790301376b6da78b72b8f42467e74a33
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 15:10:24 2019 +0200
 
-    wip 8
+    wip fix 8
 
 commit 65c6af656ab1d47bcab94f957dac46709b1eed64
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 15:06:36 2019 +0200
 
-    wip 7
+    wip fix 7
 
 commit 40ae617813d354f46730160ad6e2f7c047ba54dc
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 15:05:12 2019 +0200
 
-    wip 6
+    wip fix 6
 
 commit bf1205eeda77b90a3d69132c36f9c89df329d514
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 15:02:02 2019 +0200
 
-    wip 5
+    wip fix 5
 
 commit f387966a41f87acda35651dab643702798c91d9e
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 14:53:22 2019 +0200
 
-    wip 4
+    wip fix 4
 
 commit e450d496f76f05dbd397153aa789015c46fc55ee
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 14:47:30 2019 +0200
 
-    wip 3
+    wip fix 3
 
 commit caf489e6b09d302e26fc2f07c367d9fdc9c9497b
 Author: Alberto <alberto.cerea84@gmail.com>
