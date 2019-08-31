@@ -2,7 +2,7 @@ commit cc1cb8dc45e8a0cc3d946f9e4454dc0b527e9ac1
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 30 16:51:01 2019 +0200
 
-    set dinamic content for carousel content && Abuot Me... section
+    set dinamic content for carousel content && Abuot Me... sections
 
 commit 7785c5a3c57e1ae98d640ccdfaeb8ccec8f319af
 Author: Alberto <alberto.cerea84@gmail.com>
@@ -52,117 +52,6 @@ Date:   Fri Aug 23 17:07:17 2019 +0200
 
     wip finish
 
-commit 6ef8d8549a0106d19b8c0dff7e50da6c83845214
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:44:27 2019 +0200
-
-    wip 9
-
-commit a28f14eb1e9f7ea85e5db4360203eef043c0ee2f
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:42:51 2019 +0200
-
-    wip 9
-
-commit 4664519a863d48d63bcf5d1d36ffc1ed92c48bb5
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:40:09 2019 +0200
-
-    wip 9
-
-commit 4fef483ae48982c6140849df4bff770435bb3373
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:38:47 2019 +0200
-
-    wip 9
-
-commit b2bd9d5b975dfc063302ec1a089e2f28de108758
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:36:30 2019 +0200
-
-    wip 9
-
-commit e8f2ed8a4eb889b943ed73721873979928cc5c58
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:34:57 2019 +0200
-
-    wip 9
-
-commit 0dbe1f0c8e1e867588c28de7b7db313fcabd0cb3
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:32:33 2019 +0200
-
-    wip 9
-
-commit d130e23601a39c6dfe553c69a1a10ec76c5ea216
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:29:51 2019 +0200
-
-    wip 9
-
-commit a7cbff2c4f94eeee74832d436381156345315d77
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:25:52 2019 +0200
-
-    wip 9
-
-commit 462e1bae0ecc20e31c3df8fff32188f533e80276
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:23:24 2019 +0200
-
-    wip 9
-
-commit 62f1b2578c1e820f5a684e117698061847bd3396
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:07:38 2019 +0200
-
-    wip 9
-
-commit 49a6dcb1bbbe19ee34d189b8be41485a7b98bd07
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 16:05:58 2019 +0200
-
-    wip 9
-
-commit 40357af437d075ba3995cb2a54875097d1099f6e
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 15:59:59 2019 +0200
-
-    wip 9
-
-commit b8dea2252f4c560b50b08379084c3648404f80d2
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 15:58:49 2019 +0200
-
-    wip 9
-
-commit 899685b0626903730ed226a55bd42c0a0cb0d87a
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 15:51:46 2019 +0200
-
-    wip 9
-
-commit 72d6be0068a8e3ff0c8c8d02e7da4fee77d5bc3d
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 15:34:40 2019 +0200
-
-    wip 9
-
-commit ccc4074b2644163b48723940f01145d7fe253e56
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 15:29:55 2019 +0200
-
-    wip 9
-
-commit 40674dc48db15c7ca66327975a2e73640e2a146d
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 15:29:02 2019 +0200
-
-    wip 9
-
-commit 2a849a27fca9f2abf9f3ee0b9b2272312a9b6fd5
-Author: Alberto <alberto.cerea84@gmail.com>
-Date:   Fri Aug 23 15:27:43 2019 +0200
 
     wip 9
 
