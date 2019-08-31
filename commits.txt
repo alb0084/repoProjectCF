@@ -50,7 +50,7 @@ commit 6b3c866a4e31d18dd238333a93d71b259df22a3b
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 17:07:17 2019 +0200
 
-    wip finished
+    wip 10 finished
 
 
     wip fix 9
@@ -101,7 +101,7 @@ commit ba49507d279d45a449eafa97dba361c56dae3d0c
 Author: Alberto <alberto.cerea84@gmail.com>
 Date:   Fri Aug 23 14:39:57 2019 +0200
 
-    wip fix
+    wip (work in progress) fix
 
 commit 3e523f60c658eb509459b8fcbca465df1e449210
 Author: Alberto <alberto.cerea84@gmail.com>
